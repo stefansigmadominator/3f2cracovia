@@ -1,0 +1,62 @@
+h1{
+	color:red;
+}
+
+body {
+	font-family: Arial, sans-serif
+	margin: 0;
+	padding: 0;
+	background-color: #38D1D4;
+	color:#333;
+}
+/*Style for header*/
+header{
+		background-color: #ffcc00;
+		text-align: center;
+		padding: 20px;
+}
+
+h1{
+	margin: 0;
+	color:#333;
+	font-size: 2.5m;
+}
+
+/*Style for the main content*/
+main{
+	padding: 20px;
+}
+
+/*Style for the 'wiersz' class*/
+.wiersz{
+		font-size: italic;
+		line-height: 1.8;
+		background-color: #fef5e7;
+		border-left: 5px solid #ffcc00;
+		padding: 10px 20px;
+		margin: 20px 0;
+		border-radius: 5px;
+		color: #555;
+}
+
+/*Style for table*/
+table{
+	width: 100%;
+	border-collapse: collapse;
+	margin: 20px 0;
+	background-color: #fff;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+	table th, table td{
+		border: 1px solid #ccc;
+		padding: 10px;
+		text-align: left;
+	}
+	table th{
+		margin: 0;
+		padding: 10px 20px;
+	}
+	
+	/*Style for the footer*/
+	footer{
+			background-color
